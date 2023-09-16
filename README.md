@@ -15,7 +15,10 @@ As part of a collaborative group project, I implemented the following features f
 - a
 - a
 
-
 ### Class Diagram
 <img src="Photos/class1new.jpg" alt="Front" width="800" height="325"><br/>
 <img src="Photos/class2new.jpg" alt="Front" width="800" height="175"><br/>
+
+### Register and Login
+<img src="Photos/register.png" alt="Front" width="400" height="300"><br/>
+<img src="Photos/log_in.png" alt="Front" width="400" height="300"><br/>
