@@ -11,9 +11,9 @@ A user interface (UI) for customers to submit meter readings and view calculated
 ### Personal Contributions
 
 As part of a collaborative group project, I implemented the following features for the utility billing system:
-- a
-- a
-- a
+- Story Boarded the UI flow to ensure consistency throughout the program, also created the class diagram that adheres to the MVC model.
+- Developed the UI for staff, which includes the CRUD functions, also implemented user management restrictions to ensure that only authorized staff members can view customer bills.
+- Added features to improve the user experience, such as the ability to view customer bill health status, and a staff feature called "set main" that allows staff to switch between different price charges.
 
 ### Class Diagram
 <img src="Photos/class1new.jpg" alt="Front" width="800" height="325"><br/>
